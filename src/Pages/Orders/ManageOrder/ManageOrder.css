@@ -1,0 +1,21 @@
+.btn-grp{
+    display:flex;
+    justify-content:space-around;
+}
+.btn-del{
+    text-align: center;
+    background: linear-gradient(to bottom, #c778a4, #bb377d); ;
+    color:white;
+    border:none;
+    
+}
+.btn-up{
+    text-align: center;
+    background: linear-gradient(to bottom, #6a9113, #141517);
+    color:white;
+    border:none;
+    
+}
+.order-top{
+    margin-top: 80px;
+}

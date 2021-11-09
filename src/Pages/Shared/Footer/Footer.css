@@ -1,0 +1,26 @@
+.footer {
+    background: rgba(0, 0, 0, 0.815);
+    overflow-x: hidden;
+    padding: 14vmin 18vmin;
+  }
+  
+  .footer p > span {
+    color: #ff512f;
+  }
+  
+  .footer input {
+    border: none;
+  }
+  
+  .footer input::placeholder {
+    color: white;
+  }
+  
+  .footer .input-group .input-group-text {
+    background:linear-gradient(to bottom, #dd2476, #ff512f);
+    border: none;
+  }
+  
+  .footer .column i {
+    color: #dd2476;
+  }
